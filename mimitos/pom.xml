@@ -8,10 +8,10 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.expendedora</groupId>
-	<artifactId>GatorGate</artifactId>
+	<groupId>com.mimitos</groupId>
+	<artifactId>mimitos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GatorGate</name>
+	<name>mimitos</name>
 	<description>prototipo</description>
 	<properties>
 		<java.version>17</java.version>
